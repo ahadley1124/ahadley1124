@@ -20,6 +20,6 @@ You can reach me at:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahadley1124&layout=compact&theme=radical)
 
 ### Visitors
-![Visits](https://img.shields.io/badge/Visits-11235-blue)
+![Visits](https://img.shields.io/badge/Visits-0-blue)
 
 ### Thanks for stopping by!
