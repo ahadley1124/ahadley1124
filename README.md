@@ -19,7 +19,8 @@ You can reach me at:
 ### Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahadley1124&layout=compact&theme=radical)
 
-### Visitors
-![Visits](https://img.shields.io/badge/Visits-11235-blue)
+### Time Stats
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AustinHadley&bg_color=151515)
+
 
 ### Thanks for stopping by!
