@@ -15,6 +15,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Pull Repo
+        run: git pull
+
       - name: Increment visit counter
         id: increment
         run: |
