@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**ahadley1124/ahadley1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Austin Hadley. I currently work at Step 2. I primarily do websites and data automation. This is my personal Github where I store most of my personal projects and a couple projects that my friend and I have worked on. Most of these projects are unfinished or are just a start to keep ideas for later.
 
-Here are some ideas to get you started:
+### Projects
+My current projects include:
+- [Personal Website](https://austinh.us)
+- [Ham Radio Telnet Logger](https://github.com/ahadley1124/telnet-logger)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+You can reach me at:
+- [Email](mailto:ahadley1124@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/austin-hadley/)
+- [Phone] (419) 207-0762
+
+### Stats
+![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahadley1124&show_icons=true&theme=radical)
+
+### Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahadley1124&layout=compact&theme=radical)
+
+### Visitors
+![Visits](https://img.shields.io/badge/Visits-11235-blue)
+
+### Thanks for stopping by!
